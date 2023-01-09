@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
+//matrix
 char ** mat2;
 char** alokujMatrix(){
     mat2=(char**) calloc(8,sizeof(char*));
