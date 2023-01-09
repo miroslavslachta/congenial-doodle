@@ -9,7 +9,6 @@
 #include <unistd.h>
 
 
-
 int client(int argc, char *argv[]) {
     printf("\n    0  1  2  3  4  5  6  7 \n");
     char pismeno = 'A';

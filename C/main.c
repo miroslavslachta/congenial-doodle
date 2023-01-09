@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 
-
+//main
 int main(int argc,char*argv[]){
     if (strcmp(argv[1],"server")==0){
         server(argc-1,argv+1);
