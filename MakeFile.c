@@ -17,3 +17,4 @@ $(CC) $(CFLAGS) client.c
 
         matrix.o: matrix.c matrix.h
 $(CC) $(CFLAGS) matrix.c
+//g
