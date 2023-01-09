@@ -1,5 +1,5 @@
 void * server_fun(void *parameters) {
-
+    //g
     printf("hrac cislo(%d)\n", server->hrac_id);
     while (*server->spol_data->pocet_o != 0 && *server->spol_data->pocet_x != 0 ) {
 
